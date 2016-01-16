@@ -14,7 +14,7 @@ The DIL, is an incredibly stimulating  multi-discipline organisation and as such
 
 ## Why ?
 
-Our lab is particularly interested in understanding the cellular mechanisms through which autoimmunity is mediated, focusing on type 1 diabetes. This disease primarily singles out young people, and caused selective destruction of pancreatic islets cells, resulting in a lifelong dependency on exogenous insulin as well as some nasty co-morbidities. Worringly it's prevelence is increasing. It's a complex, polygenic disease  which means that there is an underlying genetic component involving lots of genes that is also modulated by environmental triggers. Our lab seeks to understand both of these components, to suggest therapeutic avenues to treat existing type 1 diabetics, and primary prevention strategies, to reduce prevelence in those at risk. 
+Our lab is particularly interested in understanding the cellular mechanisms through which autoimmunity is mediated, focusing on type 1 diabetes. This disease primarily singles out young people, and causes selective destruction of pancreatic islets cells, resulting in a lifelong dependency on exogenous insulin as well as some nasty co-morbidities. Worringly it's prevelence is increasing. It's a complex, polygenic disease  which means that there is an underlying genetic component involving lots of genes that is also modulated by environmental triggers. Our lab seeks to understand both of these components, to suggest therapeutic avenues to treat existing type 1 diabetics, and primary prevention strategies, to reduce prevelence in those at risk. 
 
 ## What ?
 
