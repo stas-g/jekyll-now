@@ -10,7 +10,7 @@ I am Olly Burren currently a PhD student within the prestigious [Diabetes and In
 
 ## Where ?
 
-The DIL, is an incredibly stimulating  multi-discipline organisation and as such I am extremely lucky to work with experts in encompassing Immunology, Experimental Medicine and Biostatistics. It gets better, however, as we are situated within the CIMR on the Cambridge Biomedicine Campus, which itself is close to the [MRC BSU](http://www.mrc-bsu.cam.ac.uk/), [WTSI](http://www.sanger.ac.uk/), [EBI](http://www.ebi.ac.uk),[Babraham Institute](http://www.babraham.ac.uk/) with whom I currently collaborate.
+The DIL, is an incredibly stimulating  multi-discipline organisation and as such I am extremely lucky to work with experts in encompassing Immunology, Experimental Medicine and Biostatistics. It gets better, however, as we are situated within the CIMR on the Cambridge Biomedicine Campus, which itself is close to the [MRC BSU](http://www.mrc-bsu.cam.ac.uk/), [WTSI](http://www.sanger.ac.uk/),  [EBI](http://www.ebi.ac.uk) and [Babraham Institute](http://www.babraham.ac.uk/) with whom I currently collaborate.
 
 ## Why ?
 
