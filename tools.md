@@ -11,5 +11,5 @@ permalink: /tools/
 
 Stuff I'm working on and is in progress:-
 
-* [COGS](http://ollyburren.github.io/resources/BURREN_GCD2015.pdf) - **C**apture Hi-C **O**mnibus **G**ene **S**core.
-* BLOCKSHIFTER - A tool for examining enrichment of GWAS signals in capture Hi-C data, taking into account LD and interaction correlation. 
+* [COGS](http://ollyburren.github.io/resources/BURREN_GCD2015.pdf) - **C**apture Hi-C **O**mnibus **G**ene **S**core - [code](https://github.com/ollyburren/CHIGP).
+* [BLOCKSHIFTER](http://github.com/ollyburren/CHIGP) - A tool for examining enrichment of GWAS signals in capture Hi-C data, taking into account LD and interaction correlation. 
