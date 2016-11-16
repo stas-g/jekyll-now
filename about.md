@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Publications and other works
-permalink: /about/
+permalink: /pub/
 ---
+
+coming soon...
 
 ### Publications
 
